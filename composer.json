@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "minimum-stability": "dev",
   "require": {
-    "JayashreeDCKAP/test2": "*"
+    "JayashreeDCKAP/module-test2": "*"
   },
   "autoload": {
     "psr-4": { "DCKAP\\Test1\\": "" },
