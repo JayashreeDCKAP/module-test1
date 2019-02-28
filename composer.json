@@ -4,6 +4,7 @@
   "type": "magento2-module",
   "version": "1.0.0",
   "prefer-stable": true,
+  "minimum-stability": "stable",
   "repositories": [{
     "type": "git",
     "url": "https://github.com/JayashreeDCKAP/module-test1.git"
