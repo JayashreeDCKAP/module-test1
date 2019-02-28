@@ -7,7 +7,7 @@
   "minimum-stability": "dev",
   "repositories": [{
     "type": "git",
-    "url": "https://github.com/JayashreeDCKAP/module-test1.git"
+    "url": "https://github.com/JayashreeDCKAP/module-test2"
   }
   ],
   "require": {
