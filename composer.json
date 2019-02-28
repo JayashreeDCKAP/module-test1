@@ -1,0 +1,19 @@
+{
+  "name": "JayashreeDCKAP/module-test1",
+  "description": "N/A",
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "prefer-stable": true,
+  "repositories": [{
+    "type": "git",
+    "url": "https://github.com/JayashreeDCKAP/module-test1.git"
+  }
+  ],
+  "require": {
+    "JayashreeDCKAP/test2": "*"
+  },
+  "autoload": {
+    "psr-4": { "DCKAP\\Test1\\": "" },
+    "files": [ "registration.php" ]
+  }
+}
